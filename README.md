@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Arjitshukla/Arjitshukla/blob/main/git-header-img(2).png)]
+![MasterHead](https://github.com/Arjitshukla/Arjitshukla/blob/main/git-header-img(2).png)
 <h1 align="center">Hi 👋, I'm Arjit Shukla ❤️</h1>
 <h3 align="center">Enthusiastic full stack Python coder hailing from India, eager to delve into the world of web development.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align ="right" width="400">
